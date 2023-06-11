@@ -1,3 +1,3 @@
-# The-only-good-fizzbuzz
+# A better FizzBuzz
 
-This version does not use any %, if, else or loops.
+This version does not use any %, if, else, loops or < and >s.
